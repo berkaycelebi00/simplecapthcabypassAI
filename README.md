@@ -1,5 +1,5 @@
 # simplecapthcabypassAI
-A deep Learning Model To Break Font Modified Capthas
+A Deep Learning Model To Break Font Modified Capthas
 
 This model is developed for educational purposes.
 Any illegal usage of this script is not our responsibility.
